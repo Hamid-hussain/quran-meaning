@@ -60,7 +60,7 @@ function generateVerses(){
       <h1 class="text-2xl p-2 mb-5 ">Display Mode</h1>
       <div class="flex flex-cols-4 justify-end text-right border border-black rounded p-2"> 
           <div class="flex-row">
-            <p class="border-b border-black p-1 font-bold mb-2"}>${ayaths[1]}</p>
+            <p class="border-b border-black p-1 font-bold mb-2"}>${ayaths[0]}</p>
             <div class="border-b border-black p-1 font-bold">${eng[1]}</div>
             <div class="p-1 font-bold">${trans[1]}</div>
           </div>
