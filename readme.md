@@ -1,3 +1,3 @@
-DEMO: https://hamid-hussain.github.io/quran-meaning/index.html
+DEMO: https://hamid1882.github.io/quran-meaning/index.html
 
 Created using javaScript and Tailwind 😄
